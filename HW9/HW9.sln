@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW9", "HW9\HW9.csproj", "{F046C5EF-4468-4A0F-A6B4-ABD07B7C7DCF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeTasksApp", "ThreeTasksApp\ThreeTasksApp.csproj", "{31B5CCC5-D559-45AA-9866-9FFFD4E7075E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F046C5EF-4468-4A0F-A6B4-ABD07B7C7DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F046C5EF-4468-4A0F-A6B4-ABD07B7C7DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F046C5EF-4468-4A0F-A6B4-ABD07B7C7DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B5CCC5-D559-45AA-9866-9FFFD4E7075E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B5CCC5-D559-45AA-9866-9FFFD4E7075E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B5CCC5-D559-45AA-9866-9FFFD4E7075E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B5CCC5-D559-45AA-9866-9FFFD4E7075E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
